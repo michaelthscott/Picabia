@@ -1,5 +1,5 @@
 # Picabia
-![Picabia](Picabia.jpg)
+![Picabia](Picabia.png)
 
 > ne sommes-nous pas trahis par l'importance
 
